@@ -1,8 +1,5 @@
-## MULTIPLICAR CONSOLE APP
+## CURSO NODEJS EXPERTO
 
-esto es una aplicacion para generar tablas de multiplicar
-
-ejecuta este comando
 ```
 npm install
 ```
